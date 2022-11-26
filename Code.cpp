@@ -68,4 +68,7 @@ int main() {
 	cout << "The total amount the user needs to pay for all the products is " << total_amount << "." << endl;
 	
 	return 0;
+	
+	//Item with maximum gst is Leather wallet.
+        //The total amount the user needs to pay for all the products is 6063.
 }
